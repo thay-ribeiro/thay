@@ -60,7 +60,7 @@
 <div style="display: inline-block"; alinhar="centro">
 <h2>Redes Sociais:</h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-38245B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-chikuji/ )
+[![Linkedin](https://img.shields.io/badge/LinkedIn-38245B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayane-ribeiro-/ )
 
 <h2></h2>
 
